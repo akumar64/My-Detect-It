@@ -4,15 +4,80 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AutoXretry.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>CodingChallenge.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>FlattenField.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>FruitShoppingList.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MinWindowSubstring.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>SudokuSolver.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>TreePathSum.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>ZigZagArray.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>8F6080EF1F4D51AE00356AC6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>8F70152C1EF9AB4D007B2C07</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8FBC5FBB1F521D69007FC8F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8FBC5FC81F529489007FC8F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8FBC5FD31F53EBF2007FC8F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8FBC5FDE1F57D6A4007FC8F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8FBC5FE91F57F1FE007FC8F5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
